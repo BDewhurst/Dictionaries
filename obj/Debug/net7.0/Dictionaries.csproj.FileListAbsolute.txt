@@ -1,0 +1,15 @@
+/home/brad1996/Csharp-course/Dictionaries/bin/Debug/net7.0/Dictionaries
+/home/brad1996/Csharp-course/Dictionaries/bin/Debug/net7.0/Dictionaries.deps.json
+/home/brad1996/Csharp-course/Dictionaries/bin/Debug/net7.0/Dictionaries.runtimeconfig.json
+/home/brad1996/Csharp-course/Dictionaries/bin/Debug/net7.0/Dictionaries.dll
+/home/brad1996/Csharp-course/Dictionaries/bin/Debug/net7.0/Dictionaries.pdb
+/home/brad1996/Csharp-course/Dictionaries/obj/Debug/net7.0/Dictionaries.csproj.AssemblyReference.cache
+/home/brad1996/Csharp-course/Dictionaries/obj/Debug/net7.0/Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+/home/brad1996/Csharp-course/Dictionaries/obj/Debug/net7.0/Dictionaries.AssemblyInfoInputs.cache
+/home/brad1996/Csharp-course/Dictionaries/obj/Debug/net7.0/Dictionaries.AssemblyInfo.cs
+/home/brad1996/Csharp-course/Dictionaries/obj/Debug/net7.0/Dictionaries.csproj.CoreCompileInputs.cache
+/home/brad1996/Csharp-course/Dictionaries/obj/Debug/net7.0/Dictionaries.dll
+/home/brad1996/Csharp-course/Dictionaries/obj/Debug/net7.0/refint/Dictionaries.dll
+/home/brad1996/Csharp-course/Dictionaries/obj/Debug/net7.0/Dictionaries.pdb
+/home/brad1996/Csharp-course/Dictionaries/obj/Debug/net7.0/Dictionaries.genruntimeconfig.cache
+/home/brad1996/Csharp-course/Dictionaries/obj/Debug/net7.0/ref/Dictionaries.dll
