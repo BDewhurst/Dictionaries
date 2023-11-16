@@ -33,7 +33,11 @@ namespace DictionariesDemo
             stack.Push(1232);
             Console.WriteLine(stack.Peek());
 
-
+            Queue<int> queue = new Queue<int>();
+            queue.Enqueue(1);
+            queue.Enqueue(200);
+            queue.Dequeue();
+            Console.WriteLine(queue.Peek());
 
         }
     }
